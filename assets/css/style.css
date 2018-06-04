@@ -24,6 +24,7 @@ background-size: cover;
       padding-left: 40px;
       padding-right: 40px;
       margin-bottom: 30px;
+      border: 2px solid rgb(243, 243, 98);
     }
     
     .block-header {
